@@ -47,6 +47,7 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="pricelistupload">Загрузка прайс-листа</a></li>
+            <li><a href="https://github.com/GwildoRU/tiretest">Исходники</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
